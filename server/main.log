@@ -1,0 +1,17 @@
+Sat, 08 Sep 2012 14:32:56 +0400: QUERY:
+SELECT role FROM users WHERE login = 'username' AND password = 'a3bd5ebe140a5d378bcf11104035be9a' LIMIT 1Sat, 08 Sep 2012 14:32:56 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:32:56 +0400: QUERY:
+UPDATE clients SET  WHERE id = '1'Sat, 08 Sep 2012 14:32:56 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:33:22 +0400: QUERY:
+SELECT role FROM users WHERE login = 'username' AND password = 'a3bd5ebe140a5d378bcf11104035be9a' LIMIT 1Sat, 08 Sep 2012 14:33:22 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:33:22 +0400: QUERY:
+UPDATE clients SET name = 'Петя',phone = '1234' WHERE id = '1'Sat, 08 Sep 2012 14:33:23 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:33:28 +0400: QUERY:
+SELECT role FROM users WHERE login = 'username' AND password = 'a3bd5ebe140a5d378bcf11104035be9a' LIMIT 1Sat, 08 Sep 2012 14:33:28 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:33:28 +0400: QUERY:
+UPDATE clients SET name = 'Петя',phone = '1234' WHERE id = '1'Sat, 08 Sep 2012 14:33:28 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:33:34 +0400: QUERY:
+SELECT role FROM users WHERE login = 'username' AND password = 'a3bd5ebe140a5d378bcf11104035be9a' LIMIT 1Sat, 08 Sep 2012 14:33:34 +0400: QUERY:
+SELECT * FROM clientsSat, 08 Sep 2012 14:33:34 +0400: QUERY:
+UPDATE clients SET name = 'Петя',phone = '1234' WHERE id = '1'Sat, 08 Sep 2012 14:33:34 +0400: QUERY:
+SELECT * FROM clients
